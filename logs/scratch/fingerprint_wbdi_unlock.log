@@ -1,0 +1,196 @@
+System power state: PowerActionNone, previous device power state: WdfPowerDeviceD3
+resume from s0 idle
+Load sgx_urts.dll Error:7e
+ -->failed
+ -->failed
+exit
+Thread E74 created, Entry: wbdi.00007FF9227A7BB0
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF922822370)!
+##############################InitThread start##############################
+enter
+sendCmd, cmd: 0x0, outDataSize: 0x4, recvBufSize: 0x0
+enter
+purpose: WINBIO_PURPOSE_IDENTIFY
+Power Isolate:ON
+recv completed, cmd: 0xb0, len: 3
+Thread 1498 created, Entry: ntdll.00007FF934822AD0
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF922822370)!
+Thread 1144 created, Entry: wbdi.00007FF922820770
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF922822370)!
+get ack for cmd: 0x0
+sendCmd, cmd: 0xd6, outDataSize: 0x2, recvBufSize: 0x1
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0xd6
+recv completed, cmd: 0xd6, len: 2
+get data for cmd 0xd6
+sendCmd, cmd: 0xae, outDataSize: 0x3, recvBufSize: 0x0
+process completed, cmd: 0xd6, outBufSize: 1, dataInSize: 1
+switch to fdt down
+enter
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0xae
+recv completed, cmd: 0xae, len: 3
+get data for cmd 0xae
+process completed, cmd: 0xae, outBufSize: 0, dataInSize: 2
+Wait For Tls Handshake over!
+switch to fdt down
+enter
+sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0x32
+sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0
+exit
+exit
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0x32
+exit
+exit
+##############################InitThread end##############################
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF922822370)!
+Thread E74 exit
+recv completed, cmd: 0x32, len: 25
+no pending cmd, ignore
+cmd: 0x32, interrupt: 0x2
+fdt touch flag: 0x3fc
+no pending cmd(0x32), ignore
+##############################HandleFdtDown start##############################
+update fdt up base
+sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40
+recv completed, cmd: 0xb0, len: 3
+Thread 1F54 created, Entry: wbdi.00007FF922820770
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF922822370)!
+get ack for cmd: 0x20
+tls_state = 0x10
+recv completed, cmd: 0x20, len: 14793
+image type: normal
+get data for cmd 0x20
+process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008
+Image_isTouchedByFinger: finger
+INT3 breakpoint at <wbdi.preprocessor> (00007FF922824720)!
+"preprocessor: quality %d, coverage %d"6888
+quality = 68, coverage = 88
+quality = 68, coverage = 88
+enter
+exit
+update fdt up base...
+sendCmd, cmd: 0x36, outDataSize: 0x16, recvBufSize: 0x14
+Thread 15D0 created, Entry: wbdi.00007FF9227E3040
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF922822370)!
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0x36
+Entry
+Match:1
+UnknownId:0
+recv completed, cmd: 0x36, len: 25
+gCurrSessionState:6
+cmd: 0x36, interrupt: 0x100
+get data for cmd 0x36
+Exit
+fdt touch flag: 0x3ff
+process completed, cmd: 0x36, outBufSize: 20, dataInSize: 20
+update fdt up base
+Elapsed time : 106ms
+switch to fdt up
+enter
+sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0x34
+exit
+##############################HandleFdtDown end##############################
+enter
+purpose: WINBIO_PURPOSE_IDENTIFY
+pbshield already enabled
+switch to fdt up
+enter
+sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0
+Operate registry success!
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF922822370)!
+Thread 15D0 exit
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0x34
+exit
+exit
+recv completed, cmd: 0x34, len: 25
+no pending cmd, ignore
+cmd: 0x34, interrupt: 0x200
+no pending cmd(0x34), ignore
+##############################HandleFdtUp start##############################
+update fdt down base
+update image base
+sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40
+enter
+exit
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0x20
+tls_state = 0x10
+activate = 0
+recv completed, cmd: 0x20, len: 14793
+get data for cmd 0x20
+image type: normal
+sendCmd, cmd: 0xae, outDataSize: 0x3, recvBufSize: 0x0
+process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008
+imageRet: void
+update image base
+set IsImageBaseValid: TRUE
+INT3 breakpoint at <wbdi.preprocessor_init> (00007FF9228249A0)!
+"PPLIB : preprocessor_init"08
+"PPLIB : col %d row %d, buffer 0x%x"17654
+"PPLIB : start to calib B value"17654
+"PPLIB : GOODIX_ISFLOATING %d, GOODIX_PIXEL_CANCEL %d, GOODIX_IS_COATING %d\n"10
+"PPLIB : GOODIX_THRESHOLD_SELECT_BMP %d\n"8000
+"PPLIB : SENSOR_ROW %d, SENSOR_COL %d\n"54176
+"PPLIB : cali B result %d, framenum=%d, kr[256]=%d,kr[2048]=%d,b[256]=%d,b[2048]=%d,"1223
+Save Kr to file
+INT3 breakpoint at <wbdi.preprocess_get_calidata_len> (00007FF922824050)!
+INT3 breakpoint at <wbdi.preprocess_save_calidata> (00007FF922824420)!
+"preprocessor version: %s"1407080038270240
+"pCaliData->version: %s"15763263663680
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0xae
+recv completed, cmd: 0xae, len: 3
+get data for cmd 0xae
+process completed, cmd: 0xae, outBufSize: 0, dataInSize: 2
+OpenEvent failed, start retry
+Retry 1 time
+Retry 2 time
+retry OpenEvent failed
+Operate registry success!
+sendCmd, cmd: 0x60, outDataSize: 0x2, recvBufSize: 0x0
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0x60
+sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0x20
+tls_state = 0x10
+recv completed, cmd: 0x20, len: 14793
+INT3 breakpoint at <wbdi.preprocess_get_calidata_len> (00007FF922824050)!
+INT3 breakpoint at <wbdi.preprocess_save_calidata> (00007FF922824420)!
+"preprocessor version: %s"1407080038270240
+"pCaliData->version: %s"15763263663680
+image type: normal
+get data for cmd 0x20
+process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008
+navRet: void
+update nav base
+isBaseValid = 1, isImageBaseValid = 1
+save base to file
+remove failed, errno: 13
+ -->failed
+ -->failed
+enter
+sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0
+recv completed, cmd: 0xb0, len: 3
+get ack for cmd: 0x32
+exit
+##############################HandleFdtUp end##############################
+System power state: PowerActionNone, device power state: WdfPowerDeviceD3
+enter s0 idle
+enter
+exit
+exit
+enter
+exit
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF922822370)!
+Thread 1F54 exit
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF922822370)!
+Thread 1144 exit

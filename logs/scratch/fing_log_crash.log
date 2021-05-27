@@ -1,0 +1,1478 @@
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][ info][        Device.c][EvtDeviceD0Entry        :0677] >> System power state: PowerActionNone, previous device power state: WdfPowerDeviceD3"
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][ info][        Device.c][EvtDeviceD0Entry        :0677] >> System power state: PowerActionNone, previous device power state: WdfPowerDeviceD3"
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][ info][        Device.c][EvtDeviceD0Entry        :0697] >> resume from s0 idle"
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][ info][        Device.c][EvtDeviceD0Entry        :0697] >> resume from s0 idle"
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][error][LoadSgxLibrary.c][LoadSGXLibrary          :0097] >> Load sgx_urts.dll Error:7e"
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][error][LoadSgxLibrary.c][LoadSGXLibrary          :0097] >> Load sgx_urts.dll Error:7e"
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][error][        Device.c][StartupEnclave          :0613] >>  -->failed"
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][error][        Device.c][StartupEnclave          :0613] >>  -->failed"
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][error][        Device.c][EvtDeviceD0Entry        :0723] >>  -->failed"
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][error][        Device.c][EvtDeviceD0Entry        :0723] >>  -->failed"
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][ info][        Device.c][EvtDeviceD0Entry        :0734] >> exit"
+DebugString: "[pid:   408][tid:  6904][03-15 09:18:38.037][ info][        Device.c][EvtDeviceD0Entry        :0734] >> exit"
+Thread 1DB4 created, Entry: wbdi.00007FF8E6CA7BB0
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.069][ info][        Device.c][InitThread              :1099] >> ##############################InitThread start##############################"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.069][ info][        Device.c][InitThread              :1099] >> ##############################InitThread start##############################"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.069][ info][LogicMilanFSeries.c][Start                   :0501] >> enter"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.069][ info][LogicMilanFSeries.c][Start                   :0501] >> enter"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.069][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x0, outDataSize: 0x4, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.069][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x0, outDataSize: 0x4, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.069][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.069][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.069][debug][       ReqImpl.c][CheckCaptureDataRequest :0154] >> buffer too small"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.069][debug][       ReqImpl.c][CheckCaptureDataRequest :0154] >> buffer too small"
+Thread 1D50 created, Entry: ntdll.00007FF912AA2AD0
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.069][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+Thread 1A84 created, Entry: ntdll.00007FF912AA2AD0
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.069][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:38.069][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:38.069][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.069][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.069][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+Thread 1694 created, Entry: wbdi.00007FF8E6D20770
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.069][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x0"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.069][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x0"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.069][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.069][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xd6, outDataSize: 0x2, recvBufSize: 0x1"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xd6, outDataSize: 0x2, recvBufSize: 0x1"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.085][ info][      PbShield.c][Enable                  :0123] >> Power Isolate:ON"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.085][ info][      PbShield.c][Enable                  :0123] >> Power Isolate:ON"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:38.085][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:38.085][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xd6"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xd6"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:38.085][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xd6, len: 2"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:38.085][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xd6, len: 2"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xd6"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xd6"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xd6, outBufSize: 1, dataInSize: 1"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xd6, outBufSize: 1, dataInSize: 1"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][ info][LogicMilanFSeries.c][Start                   :0744] >> switch to fdt down"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][ info][LogicMilanFSeries.c][Start                   :0744] >> switch to fdt down"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.085][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:38.100][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:38.100][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.100][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.100][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.100][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.100][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.100][ info][LogicMilanFSeries.c][Start                   :0764] >> exit"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.100][ info][LogicMilanFSeries.c][Start                   :0764] >> exit"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.100][ info][        Device.c][InitThread              :1151] >> ##############################InitThread end##############################"
+DebugString: "[pid:   408][tid:  7604][03-15 09:18:38.100][ info][        Device.c][InitThread              :1151] >> ##############################InitThread end##############################"
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+Thread 1DB4 exit
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.100][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xae, outDataSize: 0x3, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.100][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xae, outDataSize: 0x3, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:38.100][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:38.100][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xae"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xae"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:38.116][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xae, len: 3"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:38.116][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xae, len: 3"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xae"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xae"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xae, outBufSize: 0, dataInSize: 2"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xae, outBufSize: 0, dataInSize: 2"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][       ReqImpl.c][ReqOnCaptureData        :0781] >> Wait For Tls Handshake over!"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][       ReqImpl.c][ReqOnCaptureData        :0781] >> Wait For Tls Handshake over!"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][ info][       ReqImpl.c][ReqOnCaptureData        :0783] >> switch to fdt down"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][ info][       ReqImpl.c][ReqOnCaptureData        :0783] >> switch to fdt down"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:38.116][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:38.116][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:38.116][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.272][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x32, len: 25"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.272][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x32, len: 25"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x32, interrupt: 0x2"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x32, interrupt: 0x2"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x32), ignore"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x32), ignore"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][ info][LogicMilanFSeries.c][HandleFdtDown           :1264] >> ##############################HandleFdtDown start##############################"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][ info][LogicMilanFSeries.c][HandleFdtDown           :1264] >> ##############################HandleFdtDown start##############################"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][ info][LogicMilanFSeries.c][HandleFdtDown           :1278] >> update fdt up base"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][ info][LogicMilanFSeries.c][HandleFdtDown           :1278] >> update fdt up base"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.272][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.272][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.272][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+Thread 16C8 created, Entry: wbdi.00007FF8E6D20770
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.289][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.289][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.319][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.319][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.319][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.319][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+DebugString: "[pid:   408][tid:  5832][03-15 09:18:39.319][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.319][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+DebugString: "[pid:   408][tid:  5832][03-15 09:18:39.319][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.319][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.319][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.319][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.319][ info][LogicMilanFSeries.c][HandleFdtDown           :1335] >> Image_isTouchedByFinger: finger"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.319][ info][LogicMilanFSeries.c][HandleFdtDown           :1335] >> Image_isTouchedByFinger: finger"
+INT3 breakpoint at <wbdi.preprocessor> (00007FF8E6D24720)!
+"preprocessor: quality %d, coverage %d"6872
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][debug][AlgModuleUnify.c][PreProcessorUnify       :0393] >> quality = 68, coverage = 72"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][debug][AlgModuleUnify.c][PreProcessorUnify       :0393] >> quality = 68, coverage = 72"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][debug][LogicMilanFSeries.c][SubmitPendingRequest    :1020] >> quality = 68, coverage = 72"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][debug][LogicMilanFSeries.c][SubmitPendingRequest    :1020] >> quality = 68, coverage = 72"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][ info][       ReqImpl.c][CompleteCaptureRequest  :0350] >> enter"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][ info][       ReqImpl.c][CompleteCaptureRequest  :0350] >> enter"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][ info][       ReqImpl.c][CompleteCaptureRequest  :0392] >> exit"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][ info][       ReqImpl.c][CompleteCaptureRequest  :0392] >> exit"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][debug][LogicMilanFSeries.c][HandleFdtDown           :1371] >> update fdt up base..."
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][debug][LogicMilanFSeries.c][HandleFdtDown           :1371] >> update fdt up base..."
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x36, outDataSize: 0x16, recvBufSize: 0x14"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x36, outDataSize: 0x16, recvBufSize: 0x14"
+Thread 1574 created, Entry: wbdi.00007FF8E6CE3040
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.335][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.335][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x36"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.335][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x36"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:39.350][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1028] >> Entry"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:39.350][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1028] >> Entry"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:39.366][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1036] >> Match:1"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:39.366][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1036] >> Match:1"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:39.366][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1037] >> UnknownId:0"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:39.366][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1037] >> UnknownId:0"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.366][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x36, len: 25"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.366][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x36, len: 25"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:39.366][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1046] >> gCurrSessionState:6"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:39.366][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1046] >> gCurrSessionState:6"
+DebugString: "[pid:   408][tid:  5832][03-15 09:18:39.366][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x36, interrupt: 0x100"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:39.366][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1049] >> Exit"
+DebugString: "[pid:   408][tid:  5832][03-15 09:18:39.366][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x36, interrupt: 0x100"
+DebugString: "[pid:   408][tid:  5168][03-15 09:18:39.366][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1049] >> Exit"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x36"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x36"
+DebugString: "[pid:   408][tid:  5832][03-15 09:18:39.366][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3fc"
+DebugString: "[pid:   408][tid:  5832][03-15 09:18:39.366][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3fc"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x36, outBufSize: 20, dataInSize: 20"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x36, outBufSize: 20, dataInSize: 20"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][ info][LogicMilanFSeries.c][UpdateFdtUpBase         :1233] >> update fdt up base"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][      PbShield.c][Enable                  :0115] >> pbshield already enabled"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][      PbShield.c][Enable                  :0115] >> pbshield already enabled"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][ info][       ReqImpl.c][ReqOnCaptureData        :0771] >> switch to fdt up"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][ info][       ReqImpl.c][ReqOnCaptureData        :0771] >> switch to fdt up"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][ info][LogicMilanFSeries.c][UpdateFdtUpBase         :1233] >> update fdt up base"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][ info][LogicMilanFSeries.c][HandleFdtDown           :1406] >> Elapsed time : 97ms"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][ info][LogicMilanFSeries.c][HandleFdtDown           :1406] >> Elapsed time : 97ms"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][ info][LogicMilanFSeries.c][HandleFdtDown           :1421] >> switch to fdt up"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][ info][LogicMilanFSeries.c][HandleFdtDown           :1421] >> switch to fdt up"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.366][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.366][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.366][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.366][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.382][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.382][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.382][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.382][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.382][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:39.382][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.382][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.382][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.382][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.382][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.382][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.382][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.382][ info][LogicMilanFSeries.c][HandleFdtDown           :1443] >> ##############################HandleFdtDown end##############################"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.382][ info][LogicMilanFSeries.c][HandleFdtDown           :1443] >> ##############################HandleFdtDown end##############################"
+DebugString: "[pid:   408][tid:  5492][03-15 09:18:39.397][debug][       NeedPin.c][WriteRegistry           :0065] >> Operate registry success!"
+DebugString: "[pid:   408][tid:  5492][03-15 09:18:39.397][debug][       NeedPin.c][WriteRegistry           :0065] >> Operate registry success!"
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+Thread 1574 exit
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.741][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x34, len: 25"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.741][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x34, len: 25"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.741][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.741][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.741][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x34, interrupt: 0x200"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.741][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x34, interrupt: 0x200"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.741][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x34), ignore"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.741][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x34), ignore"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.757][ info][LogicMilanFSeries.c][HandleFdtUp             :1459] >> ##############################HandleFdtUp start##############################"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.757][ info][LogicMilanFSeries.c][HandleFdtUp             :1459] >> ##############################HandleFdtUp start##############################"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.757][ info][LogicMilanFSeries.c][HandleFdtUp             :1472] >> update fdt down base"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.757][ info][LogicMilanFSeries.c][HandleFdtUp             :1472] >> update fdt down base"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.757][ info][LogicMilanFSeries.c][HandleFdtUp             :1476] >> update image base"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.757][ info][LogicMilanFSeries.c][HandleFdtUp             :1476] >> update image base"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.757][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.757][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.757][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.757][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.757][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.757][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+DebugString: "[pid:   408][tid:  7796][03-15 09:18:39.803][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+DebugString: "[pid:   408][tid:  7796][03-15 09:18:39.803][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+DebugString: "[pid:   408][tid:  7796][03-15 09:18:39.803][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+DebugString: "[pid:   408][tid:  7796][03-15 09:18:39.803][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+DebugString: "[pid:   408][tid:  5832][03-15 09:18:39.803][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+DebugString: "[pid:   408][tid:  5832][03-15 09:18:39.803][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.803][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.803][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.803][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.803][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.803][debug][LogicMilanFSeries.c][_UpdateImageBase        :0160] >> imageRet: void"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.803][debug][LogicMilanFSeries.c][_UpdateImageBase        :0160] >> imageRet: void"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.803][ info][LogicMilanFSeries.c][_UpdateImageBase        :0162] >> update image base"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.803][ info][LogicMilanFSeries.c][_UpdateImageBase        :0162] >> update image base"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.803][ info][LogicMilanFSeries.c][_UpdateImageBase        :0169] >> set IsImageBaseValid: TRUE"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.803][ info][LogicMilanFSeries.c][_UpdateImageBase        :0169] >> set IsImageBaseValid: TRUE"
+INT3 breakpoint at <wbdi.preprocessor_init> (00007FF8E6D249A0)!
+"PPLIB : preprocessor_init"08
+"PPLIB : col %d row %d, buffer 0x%x"17654
+"PPLIB : start to calib B value"17654
+"PPLIB : GOODIX_ISFLOATING %d, GOODIX_PIXEL_CANCEL %d, GOODIX_IS_COATING %d\n"10
+"PPLIB : GOODIX_THRESHOLD_SELECT_BMP %d\n"8000
+"PPLIB : SENSOR_ROW %d, SENSOR_COL %d\n"54176
+"PPLIB : cali B result %d, framenum=%d, kr[256]=%d,kr[2048]=%d,b[256]=%d,b[2048]=%d,"1226
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.835][ info][     LogicImpl.c][AlgPreprocessInit       :1208] >> Save Kr to file"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.835][ info][     LogicImpl.c][AlgPreprocessInit       :1208] >> Save Kr to file"
+INT3 breakpoint at <wbdi.preprocess_get_calidata_len> (00007FF8E6D24050)!
+INT3 breakpoint at <wbdi.preprocess_save_calidata> (00007FF8E6D24420)!
+"preprocessor version: %s"1407070024369440
+"pCaliData->version: %s"25197996813280
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.851][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.851][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.851][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.851][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.851][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.851][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.897][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.897][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.897][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+DebugString: "[pid:   408][tid:  1040][03-15 09:18:39.897][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+DebugString: "[pid:   408][tid:  5832][03-15 09:18:39.897][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+DebugString: "[pid:   408][tid:  5832][03-15 09:18:39.897][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][debug][LogicMilanFSeries.c][_UpdateImageBase        :0195] >> navRet: void"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][debug][LogicMilanFSeries.c][_UpdateImageBase        :0195] >> navRet: void"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][ info][LogicMilanFSeries.c][_UpdateImageBase        :0197] >> update nav base"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][ info][LogicMilanFSeries.c][_UpdateImageBase        :0197] >> update nav base"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][ info][LogicMilanFSeries.c][_UpdateImageBase        :0208] >> isBaseValid = 1, isImageBaseValid = 1"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][ info][LogicMilanFSeries.c][_UpdateImageBase        :0208] >> isBaseValid = 1, isImageBaseValid = 1"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][ info][LogicMilanFSeries.c][_UpdateImageBase        :0212] >> save base to file"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][ info][LogicMilanFSeries.c][_UpdateImageBase        :0212] >> save base to file"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.897][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.913][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:18:39.913][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.913][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.913][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.913][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.913][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.913][ info][LogicMilanFSeries.c][HandleFdtUp             :1516] >> ##############################HandleFdtUp end##############################"
+DebugString: "[pid:   408][tid:  5780][03-15 09:18:39.913][ info][LogicMilanFSeries.c][HandleFdtUp             :1516] >> ##############################HandleFdtUp end##############################"
+DebugString: "[pid:   408][tid:  1640][03-15 09:18:43.913][debug][       ReqImpl.c][EvtCancelPendingRequest :0638] >> enter"
+DebugString: "[pid:   408][tid:  1640][03-15 09:18:43.913][debug][       ReqImpl.c][EvtCancelPendingRequest :0638] >> enter"
+DebugString: "[pid:   408][tid:  1640][03-15 09:18:43.913][debug][       ReqImpl.c][EvtCancelPendingRequest :0686] >> exit"
+DebugString: "[pid:   408][tid:  1640][03-15 09:18:43.913][debug][       ReqImpl.c][EvtCancelPendingRequest :0686] >> exit"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.928][debug][       ReqImpl.c][ReqOnActivate           :1153] >> activate = 0"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.928][debug][       ReqImpl.c][ReqOnActivate           :1153] >> activate = 0"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.928][debug][       ReqImpl.c][ReqOnActivate           :1158] >> Wait For Tls Handshake over!"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.928][debug][       ReqImpl.c][ReqOnActivate           :1158] >> Wait For Tls Handshake over!"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.928][ info][      PbShield.c][Disable                 :0157] >> Power Isolate:OFF"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.928][ info][      PbShield.c][Disable                 :0157] >> Power Isolate:OFF"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.928][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xae, outDataSize: 0x3, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.928][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xae, outDataSize: 0x3, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  7796][03-15 09:18:43.928][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  7796][03-15 09:18:43.928][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.928][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xae"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.928][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xae"
+DebugString: "[pid:   408][tid:  7796][03-15 09:18:43.944][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xae, len: 3"
+DebugString: "[pid:   408][tid:  7796][03-15 09:18:43.944][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xae, len: 3"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xae"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xae"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xae, outBufSize: 0, dataInSize: 2"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xae, outBufSize: 0, dataInSize: 2"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][ warn][       NeedPin.c][SetEventHandle          :0026] >> OpenEvent failed, start retry"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][ warn][       NeedPin.c][SetEventHandle          :0026] >> OpenEvent failed, start retry"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][       NeedPin.c][SetEventHandle          :0028] >> Retry 1 time"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][       NeedPin.c][SetEventHandle          :0028] >> Retry 1 time"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][       NeedPin.c][SetEventHandle          :0028] >> Retry 2 time"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][       NeedPin.c][SetEventHandle          :0028] >> Retry 2 time"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][ warn][       NeedPin.c][SetEventHandle          :0035] >> retry OpenEvent failed"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][ warn][       NeedPin.c][SetEventHandle          :0035] >> retry OpenEvent failed"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][       NeedPin.c][WriteRegistry           :0065] >> Operate registry success!"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][       NeedPin.c][WriteRegistry           :0065] >> Operate registry success!"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x60, outDataSize: 0x2, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x60, outDataSize: 0x2, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  7796][03-15 09:18:43.944][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  7796][03-15 09:18:43.944][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x60"
+DebugString: "[pid:   408][tid:  6788][03-15 09:18:43.944][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x60"
+INT3 breakpoint at <wbdi.preprocess_get_calidata_len> (00007FF8E6D24050)!
+INT3 breakpoint at <wbdi.preprocess_save_calidata> (00007FF8E6D24420)!
+"preprocessor version: %s"1407070024369440
+"pCaliData->version: %s"25197996813280
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+Thread 16C8 exit
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+Thread 1694 exit
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][        Device.c][EvtDeviceD0ExitPreInterruptsDisabled:0762] >> System power state: PowerActionNone, device power state: WdfPowerDeviceD3"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][        Device.c][EvtDeviceD0ExitPreInterruptsDisabled:0762] >> System power state: PowerActionNone, device power state: WdfPowerDeviceD3"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][        Device.c][EvtDeviceD0ExitPreInterruptsDisabled:0767] >> enter s0 idle"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][        Device.c][EvtDeviceD0ExitPreInterruptsDisabled:0767] >> enter s0 idle"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][LogicMilanFSeries.c][Stop                    :0777] >> enter"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][LogicMilanFSeries.c][Stop                    :0777] >> enter"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][LogicMilanFSeries.c][Stop                    :0878] >> exit"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][LogicMilanFSeries.c][Stop                    :0878] >> exit"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][        Device.c][EvtDeviceD0ExitPreInterruptsDisabled:0815] >> exit"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][        Device.c][EvtDeviceD0ExitPreInterruptsDisabled:0815] >> exit"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][        Device.c][EvtDeviceD0Exit         :0832] >> enter"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][        Device.c][EvtDeviceD0Exit         :0832] >> enter"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][        Device.c][EvtDeviceD0Exit         :0834] >> exit"
+DebugString: "[pid:   408][tid:  7504][03-15 09:18:49.007][ info][        Device.c][EvtDeviceD0Exit         :0834] >> exit"
+Breakpoint enabled!
+cmp 7
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.160][ info][        Device.c][EvtDeviceD0Entry        :0677] >> System power state: PowerActionNone, previous device power state: WdfPowerDeviceD3"
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.160][ info][        Device.c][EvtDeviceD0Entry        :0677] >> System power state: PowerActionNone, previous device power state: WdfPowerDeviceD3"
+cmp 7
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.160][ info][        Device.c][EvtDeviceD0Entry        :0697] >> resume from s0 idle"
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.160][ info][        Device.c][EvtDeviceD0Entry        :0697] >> resume from s0 idle"
+cmp 9
+cmp 9
+cmp 10
+cmp 4
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.176][error][LoadSgxLibrary.c][LoadSGXLibrary          :0097] >> Load sgx_urts.dll Error:7e"
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.176][error][LoadSgxLibrary.c][LoadSGXLibrary          :0097] >> Load sgx_urts.dll Error:7e"
+cmp 9
+cmp 9
+cmp 9
+cmp 4
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.176][error][        Device.c][StartupEnclave          :0613] >>  -->failed"
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.176][error][        Device.c][StartupEnclave          :0613] >>  -->failed"
+cmp 9
+cmp 4
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.176][error][        Device.c][EvtDeviceD0Entry        :0723] >>  -->failed"
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.176][error][        Device.c][EvtDeviceD0Entry        :0723] >>  -->failed"
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.176][ info][        Device.c][EvtDeviceD0Entry        :0734] >> exit"
+DebugString: "[pid:   408][tid:  7504][03-15 09:19:05.176][ info][        Device.c][EvtDeviceD0Entry        :0734] >> exit"
+cmp 9
+cmp 9
+cmp 9
+Thread 11EC created, Entry: wbdi.00007FF8E6CA7BB0
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.176][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.176][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+cmp 7
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.176][ info][        Device.c][InitThread              :1099] >> ##############################InitThread start##############################"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.176][ info][        Device.c][InitThread              :1099] >> ##############################InitThread start##############################"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.176][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.176][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+cmp 7
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.176][ info][LogicMilanFSeries.c][Start                   :0501] >> enter"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.176][ info][LogicMilanFSeries.c][Start                   :0501] >> enter"
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.176][ info][      PbShield.c][Enable                  :0123] >> Power Isolate:ON"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.176][ info][      PbShield.c][Enable                  :0123] >> Power Isolate:ON"
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.191][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x0, outDataSize: 0x4, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.191][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x0, outDataSize: 0x4, recvBufSize: 0x0"
+cmp 9
+cmp 10
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:05.191][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:05.191][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+Thread 1ED4 created, Entry: wbdi.00007FF8E6D20770
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.207][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x0"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.207][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x0"
+cmp 10
+cmp 9
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.207][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xd6, outDataSize: 0x2, recvBufSize: 0x1"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.207][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xd6, outDataSize: 0x2, recvBufSize: 0x1"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:05.207][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:05.207][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:05.207][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xd6, len: 2"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:05.207][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xd6, len: 2"
+cmp 9
+cmp 10
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xd6"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xd6"
+cmp 8
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xd6"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xd6"
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xd6, outBufSize: 1, dataInSize: 1"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xd6, outBufSize: 1, dataInSize: 1"
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][ info][LogicMilanFSeries.c][Start                   :0744] >> switch to fdt down"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][ info][LogicMilanFSeries.c][Start                   :0744] >> switch to fdt down"
+cmp 8
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.223][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:05.238][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:05.238][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.238][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.238][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.238][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.238][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+cmp 7
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.238][ info][LogicMilanFSeries.c][Start                   :0764] >> exit"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.238][ info][LogicMilanFSeries.c][Start                   :0764] >> exit"
+cmp 7
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.238][ info][        Device.c][InitThread              :1151] >> ##############################InitThread end##############################"
+DebugString: "[pid:   408][tid:  4588][03-15 09:19:05.238][ info][        Device.c][InitThread              :1151] >> ##############################InitThread end##############################"
+cmp 9
+cmp 9
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+Thread 11EC exit
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.238][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xae, outDataSize: 0x3, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.238][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xae, outDataSize: 0x3, recvBufSize: 0x0"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:05.254][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:05.254][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.254][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xae"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.254][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xae"
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:05.276][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xae, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:05.276][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xae, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.276][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xae"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.276][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xae"
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.276][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xae, outBufSize: 0, dataInSize: 2"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.276][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xae, outBufSize: 0, dataInSize: 2"
+cmp 9
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.285][debug][       ReqImpl.c][ReqOnCaptureData        :0781] >> Wait For Tls Handshake over!"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.285][debug][       ReqImpl.c][ReqOnCaptureData        :0781] >> Wait For Tls Handshake over!"
+cmp 7
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.285][ info][       ReqImpl.c][ReqOnCaptureData        :0783] >> switch to fdt down"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.285][ info][       ReqImpl.c][ReqOnCaptureData        :0783] >> switch to fdt down"
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.285][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.285][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.285][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.285][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:05.285][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:05.285][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.285][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.285][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.301][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.301][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.301][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:05.301][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:05.957][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x32, len: 25"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:05.957][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x32, len: 25"
+cmp 9
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.957][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.957][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.957][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x32, interrupt: 0x2"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.957][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x32, interrupt: 0x2"
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.957][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.957][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.973][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x32), ignore"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.973][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x32), ignore"
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.973][ info][LogicMilanFSeries.c][HandleFdtDown           :1264] >> ##############################HandleFdtDown start##############################"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.973][ info][LogicMilanFSeries.c][HandleFdtDown           :1264] >> ##############################HandleFdtDown start##############################"
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.973][ info][LogicMilanFSeries.c][HandleFdtDown           :1278] >> update fdt up base"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.973][ info][LogicMilanFSeries.c][HandleFdtDown           :1278] >> update fdt up base"
+cmp 9
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.973][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.973][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:05.988][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:05.988][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+Thread 1154 created, Entry: wbdi.00007FF8E6D20770
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.988][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:05.988][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.020][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.020][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+cmp 11
+cmp 9
+cmp 9
+cmp 9
+cmp 11
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.020][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.020][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+cmp 10
+cmp 10
+cmp 7
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.035][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.035][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+cmp 9
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.035][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.035][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 10
+cmp 9
+cmp 9
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.035][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.035][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.035][ info][LogicMilanFSeries.c][HandleFdtDown           :1335] >> Image_isTouchedByFinger: finger"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.035][ info][LogicMilanFSeries.c][HandleFdtDown           :1335] >> Image_isTouchedByFinger: finger"
+cmp 9
+INT3 breakpoint at <wbdi.preprocessor> (00007FF8E6D24720)!
+"preprocessor: quality %d, coverage %d"7168
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.050][debug][AlgModuleUnify.c][PreProcessorUnify       :0393] >> quality = 71, coverage = 68"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.050][debug][AlgModuleUnify.c][PreProcessorUnify       :0393] >> quality = 71, coverage = 68"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.050][debug][LogicMilanFSeries.c][SubmitPendingRequest    :1020] >> quality = 71, coverage = 68"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.050][debug][LogicMilanFSeries.c][SubmitPendingRequest    :1020] >> quality = 71, coverage = 68"
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.050][ info][       ReqImpl.c][CompleteCaptureRequest  :0350] >> enter"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.050][ info][       ReqImpl.c][CompleteCaptureRequest  :0350] >> enter"
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.066][ info][       ReqImpl.c][CompleteCaptureRequest  :0392] >> exit"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.066][ info][       ReqImpl.c][CompleteCaptureRequest  :0392] >> exit"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.066][debug][LogicMilanFSeries.c][HandleFdtDown           :1371] >> update fdt up base..."
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.066][debug][LogicMilanFSeries.c][HandleFdtDown           :1371] >> update fdt up base..."
+cmp 9
+cmp 9
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.066][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x36, outDataSize: 0x16, recvBufSize: 0x14"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.066][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x36, outDataSize: 0x16, recvBufSize: 0x14"
+cmp 9
+cmp 10
+cmp 9
+Thread 194C created, Entry: wbdi.00007FF8E6CE3040
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:06.082][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:06.082][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+cmp 9
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.082][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x36"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.082][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x36"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.097][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1028] >> Entry"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.097][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1028] >> Entry"
+cmp 10
+cmp 10
+cmp 9
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.097][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1036] >> Match:1"
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.097][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x36, len: 25"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.097][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1036] >> Match:1"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.097][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x36, len: 25"
+cmp 8
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.097][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1037] >> UnknownId:0"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.097][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1037] >> UnknownId:0"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.097][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x36, interrupt: 0x100"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.097][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x36"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.097][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x36, interrupt: 0x100"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.097][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x36"
+cmp 8
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.097][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1046] >> gCurrSessionState:6"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.097][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1046] >> gCurrSessionState:6"
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.113][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.113][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+cmp 9
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x36, outBufSize: 20, dataInSize: 20"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x36, outBufSize: 20, dataInSize: 20"
+cmp 8
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.113][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1049] >> Exit"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.113][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1049] >> Exit"
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][ info][LogicMilanFSeries.c][UpdateFdtUpBase         :1233] >> update fdt up base"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][ info][LogicMilanFSeries.c][UpdateFdtUpBase         :1233] >> update fdt up base"
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][ info][LogicMilanFSeries.c][HandleFdtDown           :1406] >> Elapsed time : 147ms"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][ info][LogicMilanFSeries.c][HandleFdtDown           :1406] >> Elapsed time : 147ms"
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][ info][LogicMilanFSeries.c][HandleFdtDown           :1421] >> switch to fdt up"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][ info][LogicMilanFSeries.c][HandleFdtDown           :1421] >> switch to fdt up"
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.113][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+cmp 9
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.129][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.129][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.129][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.129][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.129][debug][      PbShield.c][Enable                  :0115] >> pbshield already enabled"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.129][debug][      PbShield.c][Enable                  :0115] >> pbshield already enabled"
+cmp 7
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.129][ info][       ReqImpl.c][ReqOnCaptureData        :0771] >> switch to fdt up"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.129][ info][       ReqImpl.c][ReqOnCaptureData        :0771] >> switch to fdt up"
+cmp 8
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.129][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.129][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.129][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.129][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.144][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.144][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+cmp 10
+cmp 8
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.144][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.144][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.144][ info][LogicMilanFSeries.c][HandleFdtDown           :1443] >> ##############################HandleFdtDown end##############################"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:06.144][ info][LogicMilanFSeries.c][HandleFdtDown           :1443] >> ##############################HandleFdtDown end##############################"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.144][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.144][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.144][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.144][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.144][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.144][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.144][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.144][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+cmp 8
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.160][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:06.160][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  6476][03-15 09:19:06.160][debug][       NeedPin.c][WriteRegistry           :0065] >> Operate registry success!"
+DebugString: "[pid:   408][tid:  6476][03-15 09:19:06.160][debug][       NeedPin.c][WriteRegistry           :0065] >> Operate registry success!"
+cmp 9
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+Thread 194C exit
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.629][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x34, len: 25"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:06.629][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x34, len: 25"
+cmp 9
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.629][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.629][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.629][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x34, interrupt: 0x200"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.629][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x34, interrupt: 0x200"
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.629][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x34), ignore"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.629][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x34), ignore"
+cmp 7
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.645][ info][LogicMilanFSeries.c][HandleFdtUp             :1459] >> ##############################HandleFdtUp start##############################"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.645][ info][LogicMilanFSeries.c][HandleFdtUp             :1459] >> ##############################HandleFdtUp start##############################"
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.645][ info][LogicMilanFSeries.c][HandleFdtUp             :1472] >> update fdt down base"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.645][ info][LogicMilanFSeries.c][HandleFdtUp             :1472] >> update fdt down base"
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.645][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.645][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.645][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.645][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:06.660][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:06.660][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.660][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.660][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.660][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.660][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+cmp 7
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.660][ info][LogicMilanFSeries.c][HandleFdtUp             :1516] >> ##############################HandleFdtUp end##############################"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:06.660][ info][LogicMilanFSeries.c][HandleFdtUp             :1516] >> ##############################HandleFdtUp end##############################"
+DLL Loaded: 00007FF90EEE0000 C:\Windows\System32\ntmarta.dll
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:08.238][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x32, len: 25"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:08.238][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x32, len: 25"
+cmp 9
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x32, interrupt: 0x2"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x32, interrupt: 0x2"
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x32), ignore"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x32), ignore"
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][ info][LogicMilanFSeries.c][HandleFdtDown           :1264] >> ##############################HandleFdtDown start##############################"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][ info][LogicMilanFSeries.c][HandleFdtDown           :1264] >> ##############################HandleFdtDown start##############################"
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][ info][LogicMilanFSeries.c][HandleFdtDown           :1278] >> update fdt up base"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][ info][LogicMilanFSeries.c][HandleFdtDown           :1278] >> update fdt up base"
+cmp 9
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.238][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.254][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.254][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.254][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.254][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.301][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.301][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+cmp 11
+cmp 9
+cmp 9
+cmp 9
+cmp 11
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.301][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.301][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+cmp 10
+cmp 10
+cmp 7
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:08.301][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.301][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.301][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:08.301][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+cmp 10
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 10
+cmp 9
+cmp 9
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.316][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.316][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.316][ info][LogicMilanFSeries.c][HandleFdtDown           :1335] >> Image_isTouchedByFinger: finger"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.316][ info][LogicMilanFSeries.c][HandleFdtDown           :1335] >> Image_isTouchedByFinger: finger"
+cmp 9
+INT3 breakpoint at <wbdi.preprocessor> (00007FF8E6D24720)!
+"preprocessor: quality %d, coverage %d"7266
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.316][debug][AlgModuleUnify.c][PreProcessorUnify       :0393] >> quality = 72, coverage = 66"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.316][debug][AlgModuleUnify.c][PreProcessorUnify       :0393] >> quality = 72, coverage = 66"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.316][debug][LogicMilanFSeries.c][SubmitPendingRequest    :1020] >> quality = 72, coverage = 66"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.316][debug][LogicMilanFSeries.c][SubmitPendingRequest    :1020] >> quality = 72, coverage = 66"
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.332][ info][       ReqImpl.c][CompleteCaptureRequest  :0350] >> enter"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.332][ info][       ReqImpl.c][CompleteCaptureRequest  :0350] >> enter"
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.332][ info][       ReqImpl.c][CompleteCaptureRequest  :0392] >> exit"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.332][ info][       ReqImpl.c][CompleteCaptureRequest  :0392] >> exit"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.332][debug][LogicMilanFSeries.c][HandleFdtDown           :1371] >> update fdt up base..."
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.332][debug][LogicMilanFSeries.c][HandleFdtDown           :1371] >> update fdt up base..."
+cmp 9
+cmp 9
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.332][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x36, outDataSize: 0x16, recvBufSize: 0x14"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.332][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x36, outDataSize: 0x16, recvBufSize: 0x14"
+cmp 9
+cmp 10
+Thread 16CC created, Entry: wbdi.00007FF8E6CE3040
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+cmp 9
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.332][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.332][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.348][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x36"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.348][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x36"
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.363][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x36, len: 25"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.363][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x36, len: 25"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:08.363][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x36, interrupt: 0x100"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.363][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x36"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:08.363][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x36, interrupt: 0x100"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.363][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x36"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:08.363][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x36, interrupt: 0x100"
+cmp 10
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:08.363][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:08.363][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+cmp 9
+cmp 9
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.363][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x36, outBufSize: 20, dataInSize: 20"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.363][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1028] >> Entry"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.363][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1028] >> Entry"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.363][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x36, outBufSize: 20, dataInSize: 20"
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.363][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1036] >> Match:1"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.363][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1036] >> Match:1"
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.363][ info][LogicMilanFSeries.c][UpdateFdtUpBase         :1233] >> update fdt up base"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.363][ info][LogicMilanFSeries.c][UpdateFdtUpBase         :1233] >> update fdt up base"
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.363][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1037] >> UnknownId:0"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.363][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1037] >> UnknownId:0"
+cmp 9
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.363][ info][LogicMilanFSeries.c][HandleFdtDown           :1406] >> Elapsed time : 128ms"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.363][ info][LogicMilanFSeries.c][HandleFdtDown           :1406] >> Elapsed time : 128ms"
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.363][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1046] >> gCurrSessionState:6"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.363][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1046] >> gCurrSessionState:6"
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.379][ info][LogicMilanFSeries.c][HandleFdtDown           :1421] >> switch to fdt up"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.379][ info][LogicMilanFSeries.c][HandleFdtDown           :1421] >> switch to fdt up"
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.379][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1049] >> Exit"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.379][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1049] >> Exit"
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.379][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.379][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.379][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.379][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+cmp 9
+cmp 10
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:08.379][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:08.379][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.395][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+cmp 9
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.395][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+cmp 10
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][debug][      PbShield.c][Enable                  :0115] >> pbshield already enabled"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][debug][      PbShield.c][Enable                  :0115] >> pbshield already enabled"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][ info][       ReqImpl.c][ReqOnCaptureData        :0771] >> switch to fdt up"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][ info][       ReqImpl.c][ReqOnCaptureData        :0771] >> switch to fdt up"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.395][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.395][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.395][ info][LogicMilanFSeries.c][HandleFdtDown           :1443] >> ##############################HandleFdtDown end##############################"
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.395][ info][LogicMilanFSeries.c][HandleFdtDown           :1443] >> ##############################HandleFdtDown end##############################"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.395][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x34, outDataSize: 0x16, recvBufSize: 0x0"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.410][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:08.410][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.410][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.410][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x34"
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.410][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.410][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0333] >> exit"
+cmp 8
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.410][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:08.410][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  5836][03-15 09:19:08.410][debug][       NeedPin.c][WriteRegistry           :0065] >> Operate registry success!"
+DebugString: "[pid:   408][tid:  5836][03-15 09:19:08.410][debug][       NeedPin.c][WriteRegistry           :0065] >> Operate registry success!"
+cmp 9
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+Thread 16CC exit
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:08.926][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x34, len: 25"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:08.926][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x34, len: 25"
+cmp 9
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.926][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.926][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.926][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x34, interrupt: 0x200"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.926][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x34, interrupt: 0x200"
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.941][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x34), ignore"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.941][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x34), ignore"
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.941][ info][LogicMilanFSeries.c][HandleFdtUp             :1459] >> ##############################HandleFdtUp start##############################"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.941][ info][LogicMilanFSeries.c][HandleFdtUp             :1459] >> ##############################HandleFdtUp start##############################"
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.941][ info][LogicMilanFSeries.c][HandleFdtUp             :1472] >> update fdt down base"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.941][ info][LogicMilanFSeries.c][HandleFdtUp             :1472] >> update fdt down base"
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.941][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.941][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.941][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.941][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7796][03-15 09:19:08.957][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  7796][03-15 09:19:08.957][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.957][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.957][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.957][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.957][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.957][ info][LogicMilanFSeries.c][HandleFdtUp             :1516] >> ##############################HandleFdtUp end##############################"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:08.957][ info][LogicMilanFSeries.c][HandleFdtUp             :1516] >> ##############################HandleFdtUp end##############################"
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:09.348][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x32, len: 25"
+DebugString: "[pid:   408][tid:  1040][03-15 09:19:09.348][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x32, len: 25"
+cmp 9
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.363][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.363][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.363][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x32, interrupt: 0x2"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.363][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x32, interrupt: 0x2"
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.363][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.363][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.363][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x32), ignore"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.363][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x32), ignore"
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.363][ info][LogicMilanFSeries.c][HandleFdtDown           :1264] >> ##############################HandleFdtDown start##############################"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.363][ info][LogicMilanFSeries.c][HandleFdtDown           :1264] >> ##############################HandleFdtDown start##############################"
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.379][ info][LogicMilanFSeries.c][HandleFdtDown           :1278] >> update fdt up base"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.379][ info][LogicMilanFSeries.c][HandleFdtDown           :1278] >> update fdt up base"
+cmp 9
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.379][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.379][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:09.394][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:09.394][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.394][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.394][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:09.426][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:09.426][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+cmp 11
+cmp 9
+cmp 9
+cmp 9
+cmp 11
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:09.426][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:09.426][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x20, len: 14793"
+cmp 10
+cmp 10
+cmp 7
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:09.426][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:09.426][ info][       McuImpl.c][_McuParsePackage        :1581] >> image type: normal"
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 10
+cmp 9
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.441][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.441][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0x20"
+cmp 10
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.441][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.441][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0x20, outBufSize: 19008, dataInSize: 19008"
+cmp 9
+cmp 9
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.441][ info][LogicMilanFSeries.c][HandleFdtDown           :1335] >> Image_isTouchedByFinger: finger"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.441][ info][LogicMilanFSeries.c][HandleFdtDown           :1335] >> Image_isTouchedByFinger: finger"
+cmp 9
+INT3 breakpoint at <wbdi.preprocessor> (00007FF8E6D24720)!
+"preprocessor: quality %d, coverage %d"7170
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][debug][AlgModuleUnify.c][PreProcessorUnify       :0393] >> quality = 71, coverage = 70"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][debug][AlgModuleUnify.c][PreProcessorUnify       :0393] >> quality = 71, coverage = 70"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][debug][LogicMilanFSeries.c][SubmitPendingRequest    :1020] >> quality = 71, coverage = 70"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][debug][LogicMilanFSeries.c][SubmitPendingRequest    :1020] >> quality = 71, coverage = 70"
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][ info][       ReqImpl.c][CompleteCaptureRequest  :0350] >> enter"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][ info][       ReqImpl.c][CompleteCaptureRequest  :0350] >> enter"
+cmp 9
+cmp 9
+cmp 7
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][ info][       ReqImpl.c][CompleteCaptureRequest  :0392] >> exit"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][ info][       ReqImpl.c][CompleteCaptureRequest  :0392] >> exit"
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][debug][LogicMilanFSeries.c][HandleFdtDown           :1371] >> update fdt up base..."
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][debug][LogicMilanFSeries.c][HandleFdtDown           :1371] >> update fdt up base..."
+cmp 9
+cmp 9
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x36, outDataSize: 0x16, recvBufSize: 0x14"
+DebugString: "[pid:   408][tid:  7892][03-15 09:19:09.457][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x36, outDataSize: 0x16, recvBufSize: 0x14"
+cmp 9
+cmp 10
+cmp 9
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:09.488][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:09.488][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+cmp 9
+cmp 10
+cmp 10
+cmp 10
+cmp 10
+cmp 9
+cmp 8
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:09.488][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x36, len: 25"
+Breakpoint reached not in list!
+cmp 9
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:17.316][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1028] >> Entry"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:17.316][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1028] >> Entry"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:17.316][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1036] >> Match:1"
+DebugString: "[pid:   408][tid:  8096][03-15 09:19:09.488][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x36, len: 25"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:17.316][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1036] >> Match:1"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:17.316][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1037] >> UnknownId:0"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:17.316][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1037] >> UnknownId:0"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:17.316][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1046] >> gCurrSessionState:6"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:17.316][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1046] >> gCurrSessionState:6"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:17.316][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1049] >> Exit"
+DebugString: "[pid:   408][tid:  6788][03-15 09:19:17.316][debug][       ReqImpl.c][ReqOnIdentifyFinished   :1049] >> Exit"
+Thread 1DAC created, Entry: wbdi.00007FF8E6CE3040
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:17.332][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:17.332][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:17.332][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:17.332][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:17.332][debug][      PbShield.c][Enable                  :0115] >> pbshield already enabled"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:17.332][debug][      PbShield.c][Enable                  :0115] >> pbshield already enabled"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:17.332][ info][       ReqImpl.c][ReqOnCaptureData        :0771] >> switch to fdt up"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:17.332][ info][       ReqImpl.c][ReqOnCaptureData        :0771] >> switch to fdt up"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:17.332][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+DebugString: "[pid:   408][tid:  5168][03-15 09:19:17.332][debug][      FpMcuCmd.c][FpMcuSwitchToFdtUp      :0323] >> enter"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:17.332][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x36, interrupt: 0x100"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:17.332][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x36, interrupt: 0x100"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:17.347][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+DebugString: "[pid:   408][tid:  4436][03-15 09:19:17.347][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+DebugString: "[pid:   408][tid:  7596][03-15 09:19:17.379][debug][       NeedPin.c][WriteRegistry           :0065] >> Operate registry success!"
+DebugString: "[pid:   408][tid:  7596][03-15 09:19:17.379][debug][       NeedPin.c][WriteRegistry           :0065] >> Operate registry success!"
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+Thread 1DAC exit
+Thread 190 exit
+Thread 1430 exit
+Thread 1580 exit
+Thread 1ED4 exit
+Thread 1A84 exit
+Thread 1154 exit
+Thread 1D50 exit
+Thread 410 exit
+Thread 1E60 exit
+Thread 1E74 exit
+Thread 1FA0 exit
+Thread 99C exit
+Thread 1AF8 exit
+Thread 668 exit
+Thread 998 exit
+Process stopped with exit code 0xC0000005
+Saving database to C:\Users\zwiebel\Documents\x64dbg\x64\db\WUDFHost.exe.dd64 32ms
+Debugging stopped!

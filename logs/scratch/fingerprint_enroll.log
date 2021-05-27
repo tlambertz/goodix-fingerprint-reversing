@@ -1,0 +1,212 @@
+Thread 1AF4 created, Entry: wbiosrvc.00007FFC57006E30
+Thread 11FC created, Entry: ucrtbase.00007FFC6CAA1B70
+DebugString: "onecore\ds\security\biometrics\service\server\ngc.cpp(53)\wbiosrvc.dll!00007FFC5704D8E5: (caller: 00007FFC5704DA13) ReturnHr(8) tid(11fc) 8009000F Object already exists."
+DebugString: "onecore\ds\security\biometrics\service\server\ngc.cpp(53)\wbiosrvc.dll!00007FFC5704D8E5: (caller: 00007FFC5704DA13) ReturnHr(8) tid(11fc) 8009000F Object already exists."
+Thread 11FC exit
+DebugString: "onecore\ds\security\biometrics\service\server\asyncserveroperations.cpp(1298)\wbiosrvc.dll!00007FFC5707BA6D: (caller: 00007FFC5707B7D8) LogHr(12) tid(1af4) 8009000F Object already exists."
+DebugString: "onecore\ds\security\biometrics\service\server\asyncserveroperations.cpp(1298)\wbiosrvc.dll!00007FFC5707BA6D: (caller: 00007FFC5707B7D8) LogHr(12) tid(1af4) 8009000F Object already exists."
+DebugString: "onecore\ds\security\biometrics\service\trustlet\lib\tpmsupport.cpp(29)\wbiosrvc.dll!00007FFC570912A2: (caller: 00007FFC57022CA9) LogHr(13) tid(1af4) 8028400F A compatible Trusted Platform Module (TPM) Security Device cannot be found on this computer."
+DebugString: "onecore\ds\security\biometrics\service\trustlet\lib\tpmsupport.cpp(29)\wbiosrvc.dll!00007FFC570912A2: (caller: 00007FFC57022CA9) LogHr(13) tid(1af4) 8028400F A compatible Trusted Platform Module (TPM) Security Device cannot be found on this computer."
+[pid:  7532][tid:  6900][03-14 17:06:25.037][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27365804ms\n"
+INT3 breakpoint at <goodixengineadapter.templateUnPack> (00007FFC3B94F4D0)!
+INT3 breakpoint at <goodixengineadapter.identifyImage> (00007FFC3B94ED40)!
+[pid:  7532][tid:  6900][03-14 17:06:25.069][ info][GxlogicAlgorithm.c][IdentifyFeatureSet      :0962] >> identifyImage result: 0, score: 61, quality: 87, coverage: 75\n"
+INT3 breakpoint at <goodixengineadapter.templateStudy> (00007FFC3B94F3C0)!
+[pid:  7532][tid:  6900][03-14 17:06:25.084][debug][GxlogicAlgorithm.c][IdentifyFeatureSet      :0986] >> templateStudy updatestatus:1\n"
+INT3 breakpoint at <goodixengineadapter.templateGetPackedSize> (00007FFC3B94F2C0)!
+INT3 breakpoint at <goodixengineadapter.templatePack> (00007FFC3B94F310)!
+[pid:  7532][tid:  6900][03-14 17:06:25.100][debug][GxlogicAlgorithm.c][IdentifyFeatureSet      :1012] >> templatesize:108469\n"
+INT3 breakpoint at <goodixengineadapter.templateDelete> (00007FFC3B94F230)!
+[pid:  7532][tid:  6900][03-14 17:06:25.100][debug][EngineAdapter.cpp][EngineAdapterIdentifyFeatureSet:1407] >> [0]identify feature result:Running well for now, match = 1\n"
+[pid:  7532][tid:  6900][03-14 17:06:25.100][debug][EngineAdapter.cpp][EngineAdapterIdentifyFeatureSet:1476] >> save record when match\n"
+[pid:  7532][tid:  6900][03-14 17:06:25.100][ info][EngineAdapter.cpp][EngineAdapterIdentifyFeatureSet:1486] >> Identify elapsed time : 56ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:25.100][debug][EngineAdapter.cpp][EngineAdapterIdentifyFeatureSet:1514] >> hr:0\n"
+DebugString: "onecore\ds\security\biometrics\service\trustlet\lib\tpmsupport.cpp(29)\wbiosrvc.dll!00007FFC570912A2: (caller: 00007FFC57022CA9) LogHr(14) tid(1af4) 8028400F A compatible Trusted Platform Module (TPM) Security Device cannot be found on this computer."
+DebugString: "onecore\ds\security\biometrics\service\trustlet\lib\tpmsupport.cpp(29)\wbiosrvc.dll!00007FFC570912A2: (caller: 00007FFC57022CA9) LogHr(14) tid(1af4) 8028400F A compatible Trusted Platform Module (TPM) Security Device cannot be found on this computer."
+[pid:  7532][tid:  6900][03-14 17:06:27.772][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27368541ms\n"
+INT3 breakpoint at <goodixengineadapter.templateUnPack> (00007FFC3B94F4D0)!
+INT3 breakpoint at <goodixengineadapter.identifyImage> (00007FFC3B94ED40)!
+[pid:  7532][tid:  6900][03-14 17:06:27.819][ info][GxlogicAlgorithm.c][IdentifyFeatureSet      :0962] >> identifyImage result: 0, score: 67, quality: 83, coverage: 57\n"
+INT3 breakpoint at <goodixengineadapter.templateStudy> (00007FFC3B94F3C0)!
+[pid:  7532][tid:  6900][03-14 17:06:27.819][debug][GxlogicAlgorithm.c][IdentifyFeatureSet      :0986] >> templateStudy updatestatus:0\n"
+INT3 breakpoint at <goodixengineadapter.templateDelete> (00007FFC3B94F230)!
+[pid:  7532][tid:  6900][03-14 17:06:27.819][debug][EngineAdapter.cpp][EngineAdapterIdentifyFeatureSet:1407] >> [0]identify feature result:Running well for now, match = 1\n"
+[pid:  7532][tid:  6900][03-14 17:06:27.819][debug][EngineAdapter.cpp][EngineAdapterIdentifyFeatureSet:1476] >> save record when match\n"
+[pid:  7532][tid:  6900][03-14 17:06:27.834][ info][EngineAdapter.cpp][EngineAdapterIdentifyFeatureSet:1486] >> Identify elapsed time : 49ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:27.834][debug][EngineAdapter.cpp][EngineAdapterIdentifyFeatureSet:1514] >> hr:0\n"
+DebugString: "onecore\ds\security\biometrics\service\trustlet\lib\tpmsupport.cpp(29)\wbiosrvc.dll!00007FFC570912A2: (caller: 00007FFC57022CA9) LogHr(15) tid(1af4) 8028400F A compatible Trusted Platform Module (TPM) Security Device cannot be found on this computer."
+DebugString: "onecore\ds\security\biometrics\service\trustlet\lib\tpmsupport.cpp(29)\wbiosrvc.dll!00007FFC570912A2: (caller: 00007FFC57022CA9) LogHr(15) tid(1af4) 8028400F A compatible Trusted Platform Module (TPM) Security Device cannot be found on this computer."
+???
+INT3 breakpoint at <goodixengineadapter.templateUnPack> (00007FFC3B94F4D0)!
+INT3 breakpoint at <goodixengineadapter.identifyImage> (00007FFC3B94ED40)!
+[pid:  7532][tid:  6900][03-14 17:06:29.038][ info][GxlogicAlgorithm.c][IdentifyFeatureSet      :0962] >> identifyImage result: -1, score: -4, quality: 88, coverage: 89\n"
+INT3 breakpoint at <goodixengineadapter.templateDelete> (00007FFC3B94F230)!
+[pid:  7532][tid:  6900][03-14 17:06:29.038][debug][EngineAdapter.cpp][EngineAdapterIdentifyFeatureSet:1407] >> [0]identify feature result:[ALG] Good quality and coverage, but not match, match = 0\n"
+[pid:  7532][tid:  6900][03-14 17:06:29.100][ info][  Additional.cpp][_CaptureImageForIdentify:0715] >> hr:00\n"
+[pid:  7532][tid:  6900][03-14 17:06:29.100][debug][  Additional.cpp][_RetryIdentify          :0632] >> retry identify!\n"
+[pid:  7532][tid:  6900][03-14 17:06:29.100][debug][  Additional.cpp][_RetryIdentify          :0640] >> WbioStorageQueryByContent hr:0x0\n"
+[pid:  7532][tid:  6900][03-14 17:06:29.116][debug][  Additional.cpp][_RetryIdentify          :0646] >> recordCount:1, he:0x0\n"
+"@”¯"
+INT3 breakpoint at <goodixengineadapter.templateUnPack> (00007FFC3B94F4D0)!
+INT3 breakpoint at <goodixengineadapter.identifyImage> (00007FFC3B94ED40)!
+[pid:  7532][tid:  6900][03-14 17:06:29.132][ info][GxlogicAlgorithm.c][IdentifyFeatureSet      :0962] >> identifyImage result: -1, score: -4, quality: 91, coverage: 99\n"
+INT3 breakpoint at <goodixengineadapter.templateDelete> (00007FFC3B94F230)!
+[pid:  7532][tid:  6900][03-14 17:06:29.132][debug][  Additional.cpp][_RetryIdentify          :0688] >> match status:0\n"
+[pid:  7532][tid:  6900][03-14 17:06:29.132][ info][EngineAdapter.cpp][EngineAdapterIdentifyFeatureSet:1486] >> Identify elapsed time : 131ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:29.147][debug][EngineAdapter.cpp][EngineAdapterIdentifyFeatureSet:1514] >> hr:80098003\n"
+DebugString: "onecore\ds\security\biometrics\service\server\asyncserveroperations.cpp(766)\wbiosrvc.dll!00007FFC57079FC5: (caller: 00007FFC5707A8C9) ReturnHr(9) tid(1af4) 80098003"
+DebugString: "onecore\ds\security\biometrics\service\server\asyncserveroperations.cpp(766)\wbiosrvc.dll!00007FFC57079FC5: (caller: 00007FFC5707A8C9) ReturnHr(9) tid(1af4) 80098003"
+DLL Loaded: 00007FFC62CE0000 C:\Windows\System32\wbem\wbemprox.dll
+DLL Loaded: 00007FFC612B0000 C:\Windows\System32\wbemcomn.dll
+DLL Loaded: 00007FFC5EC60000 C:\Windows\System32\wbem\wbemsvc.dll
+Thread 804 created, Entry: combase.00007FFC6E33B8E0
+DLL Loaded: 00007FFC5E500000 C:\Windows\System32\wbem\fastprox.dll
+DLL Unloaded: 00007FFC5EC60000 wbemsvc.dll
+DLL Unloaded: 00007FFC62CE0000 wbemprox.dll
+DLL Unloaded: 00007FFC612B0000 wbemcomn.dll
+DLL Unloaded: 00007FFC5E500000 fastprox.dll
+INT3 breakpoint at <goodixengineadapter.enrolStartEx> (00007FFC3B94E8E0)!
+"À‹­"
+[pid:  7532][tid:  6900][03-14 17:06:30.631][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27371386ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:30.663][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 0, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:30.663][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:30.663][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:5 NUsernum:1\n"
+[pid:  7532][tid:  6900][03-14 17:06:30.663][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:1\n"
+[pid:  7532][tid:  6900][03-14 17:06:30.663][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 42ms\n"
+???
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:31.694][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 0, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:31.694][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:31.694][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:11 NUsernum:2\n"
+???
+[pid:  7532][tid:  6900][03-14 17:06:31.709][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 28ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:33.428][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27374187ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:33.444][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 0, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:33.459][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:33.459][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:17 NUsernum:3\n"
+[pid:  7532][tid:  6900][03-14 17:06:33.459][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:3\n"
+[pid:  7532][tid:  6900][03-14 17:06:33.459][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 34ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:35.664][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27376431ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:35.694][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 0, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:35.694][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:35.694][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:23 NUsernum:4\n"
+[pid:  7532][tid:  6900][03-14 17:06:35.710][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:4\n"
+[pid:  7532][tid:  6900][03-14 17:06:35.710][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 37ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:37.022][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27377782ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:37.053][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 1, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:37.053][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:37.053][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:29 NUsernum:5\n"
+[pid:  7532][tid:  6900][03-14 17:06:37.053][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:5\n"
+[pid:  7532][tid:  6900][03-14 17:06:37.053][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 40ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:38.412][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27379177ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:38.444][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 64, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:38.444][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 53, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:38.444][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:35 NUsernum:6\n"
+[pid:  7532][tid:  6900][03-14 17:06:38.444][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:6\n"
+[pid:  7532][tid:  6900][03-14 17:06:38.444][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 34ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:39.366][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27380128ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:39.428][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 0, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:39.428][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:39.428][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:41 NUsernum:7\n"
+[pid:  7532][tid:  6900][03-14 17:06:39.428][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:7\n"
+[pid:  7532][tid:  6900][03-14 17:06:39.428][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 68ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:40.381][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27381140ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:40.412][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 0, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:40.412][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:40.412][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:47 NUsernum:8\n"
+[pid:  7532][tid:  6900][03-14 17:06:40.412][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:8\n"
+[pid:  7532][tid:  6900][03-14 17:06:40.412][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 42ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:41.322][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27382086ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:41.350][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 86, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:41.350][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:41.350][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:52 NUsernum:9\n"
+"à2¯"
+[pid:  7532][tid:  6900][03-14 17:06:41.366][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 35ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:46.210][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27386971ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:46.256][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 56, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:46.272][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+" M¯"
+" B¯"
+[pid:  7532][tid:  6900][03-14 17:06:46.272][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 60ms\n"
+"€J¯"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:47.162][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 1, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:47.162][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:47.162][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:64 NUsernum:11\n"
+[pid:  7532][tid:  6900][03-14 17:06:47.162][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:11\n"
+[pid:  7532][tid:  6900][03-14 17:06:47.178][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 64ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:48.803][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27389572ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:48.866][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 42, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:48.881][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:48.881][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:70 NUsernum:12\n"
+[pid:  7532][tid:  6900][03-14 17:06:48.881][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:12\n"
+[pid:  7532][tid:  6900][03-14 17:06:48.881][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 67ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:49.756][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27390522ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:49.819][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 54, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:49.819][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:49.819][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:76 NUsernum:13\n"
+[pid:  7532][tid:  6900][03-14 17:06:49.819][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:13\n"
+[pid:  7532][tid:  6900][03-14 17:06:49.834][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 68ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:50.662][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27391424ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:50.725][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 88, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:50.725][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:50.725][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:82 NUsernum:14\n"
+[pid:  7532][tid:  6900][03-14 17:06:50.725][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:14\n"
+[pid:  7532][tid:  6900][03-14 17:06:50.725][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 67ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:51.600][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27392357ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:51.647][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 1, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:51.647][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:51.647][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:88 NUsernum:15\n"
+[pid:  7532][tid:  6900][03-14 17:06:51.647][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:15\n"
+[pid:  7532][tid:  6900][03-14 17:06:51.647][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 60ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:52.585][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27393342ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:52.647][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 60, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:52.647][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:52.647][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:94 NUsernum:16\n"
+[pid:  7532][tid:  6900][03-14 17:06:52.647][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:16\n"
+[pid:  7532][tid:  6900][03-14 17:06:52.647][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 68ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:53.366][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27394128ms\n"
+[pid:  7532][tid:  6900][03-14 17:06:53.381][debug][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0982] >> now coverage : 55 minImageCoverage: 65\n"
+[pid:  7532][tid:  6900][03-14 17:06:53.381][debug][EngineAdapter.cpp][RejectDetailFromTouchFlagG:0849] >> Touchflag:3f0\n"
+[pid:  7532][tid:  6900][03-14 17:06:53.381][debug][EngineAdapter.cpp][RejectDetailFromTouchFlagG:0852] >> number couont:6\n"
+[pid:  7532][tid:  6900][03-14 17:06:53.403][debug][EngineAdapter.cpp][EngineAdapterAcceptSampleData:1007] >> RejectDetail:0x1\n"
+[pid:  7532][tid:  6900][03-14 17:06:54.272][ info][EngineAdapter.cpp][EngineAdapterAcceptSampleData:0890] >> Start time: 27395037ms\n"
+INT3 breakpoint at <goodixengineadapter.enrolAddImage> (00007FFC3B94E4A0)!
+[pid:  7532][tid:  6900][03-14 17:06:54.335][debug][GxlogicAlgorithm.c][IsNeedRollback          :0120] >> now overlay: 41, maxOverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:54.335][debug][GxlogicAlgorithm.c][IsNeedRollback          :0123] >> now preoverlay: 0, maxPreoverlayRatio:100\n"
+[pid:  7532][tid:  6900][03-14 17:06:54.350][debug][GxlogicAlgorithm.c][updateEnrollstatus      :0508] >> Progress:100 NUsernum:17\n"
+INT3 breakpoint at <goodixengineadapter.enrolGetTemplate> (00007FFC3B94E860)!
+INT3 breakpoint at <goodixengineadapter.templateGetPackedSize> (00007FFC3B94F2C0)!
+INT3 breakpoint at <goodixengineadapter.templatePack> (00007FFC3B94F310)!
+[pid:  7532][tid:  6900][03-14 17:06:54.350][debug][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1661] >> EnrollmentCount:17\n"
+[pid:  7532][tid:  6900][03-14 17:06:54.350][ info][EngineAdapter.cpp][EngineAdapterUpdateEnrollment:1691] >> Enrollment elapsed time : 75ms\n"
+INT3 breakpoint at <goodixengineadapter.templateUnPack> (00007FFC3B94F4D0)!
+INT3 breakpoint at <goodixengineadapter.templateUnPack> (00007FFC3B94F4D0)!
+INT3 breakpoint at <goodixengineadapter.identifytemplate> (00007FFC3B94F0F0)!
+INT3 breakpoint at <goodixengineadapter.templateDelete> (00007FFC3B94F230)!
+INT3 breakpoint at <goodixengineadapter.templateDelete> (00007FFC3B94F230)!
+[pid:  7532][tid:  6900][03-14 17:06:54.490][ info][EngineAdapter.cpp][EngineAdapterCheckForDuplicate:1879] >> CheckForDuplicate:[ALG]  template not duplicate\n"
+[pid:  7532][tid:  6900][03-14 17:06:54.490][debug][GxlogicAlgorithm.c][GetTemplateSize         :1102] >> Enroll PayloadSize:96705\n"
+[pid:  7532][tid:  6900][03-14 17:06:54.490][debug][EngineAdapter.cpp][EngineAdapterCommitEnrollment:1992] >> TemplateBlobSize:96705\n"
+[pid:  7532][tid:  6900][03-14 17:06:54.490][debug][  Additional.cpp][_CreateTid              :0587] >> {752DDE0C-457C-47D5-8A8C-3FF9703D2D1D}\n"
+[pid:  7532][tid:  6900][03-14 17:06:54.490][debug][  Additional.cpp][_CreateTid              :0587] >> {D054112C-5F7F-4CAB-B91F-C355F691A1B7}\n"
+[pid:  7532][tid:  6900][03-14 17:06:54.506][debug][       AlgImpl.c][_LogicAlgConvert2TemplateNode:0096] >> Create new template node\n"
+INT3 breakpoint at <goodixengineadapter.enrolFinish> (00007FFC3B94E7F0)!
+[pid:  7532][tid:  6900][03-14 17:07:00.475][ info][  Additional.cpp][_AdapterActivate        :0728] >> Entry. IoControl to WBDI : active 0\n"
+[pid:  7532][tid:  6900][03-14 17:07:00.491][debug][  Additional.cpp][_AdapterActivate        :0752] >> broken study flag is: 1, Exit, hr = 0x80098004\n"
+[pid:  7532][tid:  6900][03-14 17:07:00.491][debug][EngineAdapter.cpp][EngineAdapterDeactivate :2366] >> templatesize:0 needupdate:No\n"
+Thread 1AF4 exit

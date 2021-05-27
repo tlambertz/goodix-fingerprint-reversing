@@ -1,0 +1,497 @@
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.540][ info][        Device.c][EvtDeviceD0Entry        :0677] >> System power state: PowerActionNone, previous device power state: WdfPowerDeviceD3"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.540][ info][        Device.c][EvtDeviceD0Entry        :0677] >> System power state: PowerActionNone, previous device power state: WdfPowerDeviceD3"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][ info][        Device.c][EvtDeviceD0Entry        :0697] >> resume from s0 idle"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][ info][        Device.c][EvtDeviceD0Entry        :0697] >> resume from s0 idle"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][        Device.c][StartupEnclave          :0605] >> enter"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][        Device.c][StartupEnclave          :0605] >> enter"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][LoadSgxLibrary.c][LoadSGXLibrary          :0084] >> enter"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][LoadSgxLibrary.c][LoadSGXLibrary          :0084] >> enter"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][ dump][    GetSysinfo.c][GetSystem32Path         :0167] >> path:C:\Windows\system32\sgx_urts.dll"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][ dump][    GetSysinfo.c][GetSystem32Path         :0167] >> path:C:\Windows\system32\sgx_urts.dll"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][error][LoadSgxLibrary.c][LoadSGXLibrary          :0097] >> Load sgx_urts.dll Error:7e"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][error][LoadSgxLibrary.c][LoadSGXLibrary          :0097] >> Load sgx_urts.dll Error:7e"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][LoadSgxLibrary.c][FreeSgxLibaray          :0173] >> enter"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][LoadSgxLibrary.c][FreeSgxLibaray          :0173] >> enter"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][LoadSgxLibrary.c][FreeSgxLibaray          :0187] >> exit"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][LoadSgxLibrary.c][FreeSgxLibaray          :0187] >> exit"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][LoadSgxLibrary.c][LoadSGXLibrary          :0151] >> exit"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][LoadSgxLibrary.c][LoadSGXLibrary          :0151] >> exit"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][error][        Device.c][StartupEnclave          :0613] >>  -->failed"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][error][        Device.c][StartupEnclave          :0613] >>  -->failed"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][        Device.c][StartupEnclave          :0657] >> exit"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][        Device.c][StartupEnclave          :0657] >> exit"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][error][        Device.c][EvtDeviceD0Entry        :0723] >>  -->failed"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][error][        Device.c][EvtDeviceD0Entry        :0723] >>  -->failed"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][   ThreadGroup.c][ThreadCreate            :0023] >> enter"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][   ThreadGroup.c][ThreadCreate            :0023] >> enter"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][   ThreadGroup.c][ThreadCreate            :0035] >> exit"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][   ThreadGroup.c][ThreadCreate            :0035] >> exit"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][ info][        Device.c][EvtDeviceD0Entry        :0734] >> exit"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][ info][        Device.c][EvtDeviceD0Entry        :0734] >> exit"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][       ReqImpl.c][LogicEvtIoCtl           :1438] >> ioctrlcode: 0x440010, devType: 0x44, func: 0x4"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][       ReqImpl.c][LogicEvtIoCtl           :1438] >> ioctrlcode: 0x440010, devType: 0x44, func: 0x4"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][       ReqImpl.c][ReqOnGetSensorStatus    :0597] >> enter"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][       ReqImpl.c][ReqOnGetSensorStatus    :0597] >> enter"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][       ReqImpl.c][ReqOnGetSensorStatus    :0628] >> exit"
+DebugString: "[pid:  5928][tid:  4808][03-15 09:23:03.556][trace][       ReqImpl.c][ReqOnGetSensorStatus    :0628] >> exit"
+Thread 162C created, Entry: wbdi.00007FF8E6CA7BB0
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][trace][       ReqImpl.c][LogicEvtIoCtl           :1438] >> ioctrlcode: 0x440014, devType: 0x44, func: 0x5"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][trace][       ReqImpl.c][LogicEvtIoCtl           :1438] >> ioctrlcode: 0x440014, devType: 0x44, func: 0x5"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][debug][       ReqImpl.c][ReqOnCaptureData        :0701] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][trace][       ReqImpl.c][CheckCaptureDataRequest :0128] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][trace][       ReqImpl.c][CheckCaptureDataRequest :0128] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][debug][       ReqImpl.c][CheckCaptureDataRequest :0161] >> purpose: WINBIO_PURPOSE_IDENTIFY"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][trace][       ReqImpl.c][ReqOnCaptureData        :0724] >> new request: 0x68229168"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][trace][       ReqImpl.c][ReqOnCaptureData        :0724] >> new request: 0x68229168"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][trace][      PbShield.c][Enable                  :0106] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.556][trace][      PbShield.c][Enable                  :0106] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.587][ info][      PbShield.c][Enable                  :0123] >> Power Isolate:ON"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.587][ info][      PbShield.c][Enable                  :0123] >> Power Isolate:ON"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.587][trace][      PbShield.c][PwrBtnShield_Worker     :0073] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.587][trace][      PbShield.c][PwrBtnShield_Worker     :0073] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.587][trace][       Realtek.c][SetEcCtrl               :1643] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.587][trace][       Realtek.c][SetEcCtrl               :1643] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.603][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0xae, ackEvent: 0x59c, dataInEvent: 0x5a0, dataProcessedEvent: 0x5a4"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.603][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0xae, ackEvent: 0x59c, dataInEvent: 0x5a0, dataProcessedEvent: 0x5a4"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.603][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xae, outDataSize: 0x3, recvBufSize: 0x0"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.603][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xae, outDataSize: 0x3, recvBufSize: 0x0"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.603][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.603][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.603][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 07 00 A7 AE 04 00 00  01 00 F7 00 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.603][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 07 00 A7 AE 04 00 00  01 00 F7 00 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.619][ info][        Device.c][InitThread              :1099] >> ##############################InitThread start##############################"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.619][ info][        Device.c][InitThread              :1099] >> ##############################InitThread start##############################"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.619][ info][LogicMilanFSeries.c][Start                   :0501] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.619][ info][LogicMilanFSeries.c][Start                   :0501] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.619][trace][       McuImpl.c][McuSendNop              :0766] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.619][trace][       McuImpl.c][McuSendNop              :0766] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.619][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0x0, ackEvent: 0x5b0, dataInEvent: 0x0, dataProcessedEvent: 0x0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.619][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0x0, ackEvent: 0x5b0, dataInEvent: 0x0, dataProcessedEvent: 0x0"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 AE  01 48 00 00 00 00 00 00  .........H......
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 AE  01 48 00 00 00 00 00 00  .........H......
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0402] >> create new thread"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0402] >> create new thread"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.619][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.619][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+Thread 107C created, Entry: wbdi.00007FF8E6D20770
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.619][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x59c, for cmd 0xae"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.619][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x59c, for cmd 0xae"
+Thread 1AC0 created, Entry: ntdll.00007FF912AA2AD0
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 AE 03 00 01  00 F8 00 00 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 AE 03 00 01  00 F8 00 00 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.619][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xae"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.619][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xae"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xae, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xae, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.619][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.634][ dump][         IoHub.c][IoHubNotifyDataIn2      :0643] >> set data event: 0x5a0, for cmd 0xae"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.634][ dump][         IoHub.c][IoHubNotifyDataIn2      :0643] >> set data event: 0x5a0, for cmd 0xae"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.634][ dump][         IoHub.c][IoHubNotifyDataProcessed:0714] >> set dataProc event: 0x5a4"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.634][ dump][         IoHub.c][IoHubNotifyDataProcessed:0714] >> set dataProc event: 0x5a4"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xae"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xae"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xae, outBufSize: 0, dataInSize: 2"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xae, outBufSize: 0, dataInSize: 2"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][       Realtek.c][SetEcCtrl               :1666] >> exit"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][       Realtek.c][SetEcCtrl               :1666] >> exit"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][      PbShield.c][PwrBtnShield_Worker     :0097] >> exit"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][      PbShield.c][PwrBtnShield_Worker     :0097] >> exit"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][      PbShield.c][Enable                  :0132] >> exit"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][      PbShield.c][Enable                  :0132] >> exit"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][debug][       ReqImpl.c][ReqOnCaptureData        :0781] >> Wait For Tls Handshake over!"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][debug][       ReqImpl.c][ReqOnCaptureData        :0781] >> Wait For Tls Handshake over!"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][ info][       ReqImpl.c][ReqOnCaptureData        :0783] >> switch to fdt down"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][ info][       ReqImpl.c][ReqOnCaptureData        :0783] >> switch to fdt down"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][ dump][      FpMcuCmd.c][_FpMcuSwitchToFdtMode   :0128] >> switch to fdt down[0x14]: 
+80 BA 80 B4 80 B5 80 AF  80 B4 80 AC 80 B2 80 A7  ................
+80 AB 80 A5                                        ...."
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][ dump][      FpMcuCmd.c][_FpMcuSwitchToFdtMode   :0128] >> switch to fdt down[0x14]: 
+80 BA 80 B4 80 B5 80 AF  80 B4 80 AC 80 B2 80 A7  ................
+80 AB 80 A5                                        ...."
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0x32, ackEvent: 0x5a4, dataInEvent: 0x0, dataProcessedEvent: 0x0"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0x32, ackEvent: 0x5a4, dataInEvent: 0x0, dataProcessedEvent: 0x0"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 1A 00 BA 32 17 00 0C  01 80 BA 80 B4 80 B5 80  ....2...........
+AF 80 B4 80 AC 80 B2 80  A7 80 AB 80 A5 79 00 00  .............y.."
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 1A 00 BA 32 17 00 0C  01 80 BA 80 B4 80 B5 80  ....2...........
+AF 80 B4 80 AC 80 B2 80  A7 80 AB 80 A5 79 00 00  .............y.."
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.634][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 32  01 C4 00 00 00 00 00 00  .......2........
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 32  01 C4 00 00 00 00 00 00  .......2........
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.634][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.650][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x5a4, for cmd 0x32"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.650][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x5a4, for cmd 0x32"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.650][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.650][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.650][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.650][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.650][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.650][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.650][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+DebugString: "[pid:  5928][tid:  6148][03-15 09:23:03.650][debug][       ReqImpl.c][ReqOnCaptureData        :0808] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x0, outDataSize: 0x4, recvBufSize: 0x0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x0, outDataSize: 0x4, recvBufSize: 0x0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 08 00 A8 00 05 00 00  00 00 00 A5 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 08 00 A8 00 05 00 00  00 00 00 A5 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 00  01 F6 00 00 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 00  01 F6 00 00 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.650][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.650][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x5b0, for cmd 0x0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.650][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x5b0, for cmd 0x0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][trace][       McuImpl.c][McuSendNop              :0776] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][trace][       McuImpl.c][McuSendNop              :0776] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][trace][       McuImpl.c][PovImageCheck           :1166] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][trace][       McuImpl.c][PovImageCheck           :1166] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0xd6, ackEvent: 0x5b0, dataInEvent: 0x5a4, dataProcessedEvent: 0x5a0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0xd6, ackEvent: 0x5b0, dataInEvent: 0x5a4, dataProcessedEvent: 0x5a0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xd6, outDataSize: 0x2, recvBufSize: 0x1"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.650][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0xd6, outDataSize: 0x2, recvBufSize: 0x1"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.665][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.665][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.665][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 06 00 A6 D6 03 00 00  00 D1 00 00 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.665][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 06 00 A6 D6 03 00 00  00 D1 00 00 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.665][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.665][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 D6  01 20 00 00 00 00 00 00  ......... ......
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 D6  01 20 00 00 00 00 00 00  ......... ......
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.665][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.665][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x5b0, for cmd 0xd6"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.665][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x5b0, for cmd 0xd6"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 05 00 A5 D6 02 00 FF  D3 00 00 00 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 05 00 A5 D6 02 00 FF  D3 00 00 00 00 00 00 00  ................
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 5"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 5"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xd6, len: 2"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xd6, len: 2"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:03.665][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.665][ dump][         IoHub.c][IoHubNotifyDataIn2      :0643] >> set data event: 0x5a4, for cmd 0xd6"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.665][ dump][         IoHub.c][IoHubNotifyDataIn2      :0643] >> set data event: 0x5a4, for cmd 0xd6"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.665][ dump][         IoHub.c][IoHubNotifyDataProcessed:0714] >> set dataProc event: 0x5a0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.665][ dump][         IoHub.c][IoHubNotifyDataProcessed:0714] >> set dataProc event: 0x5a0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.665][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xd6"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.665][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0xd6"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.665][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xd6"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.665][debug][         IoHub.c][_IoHubExec              :0300] >> get data for cmd 0xd6"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xd6, outBufSize: 1, dataInSize: 1"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][debug][         IoHub.c][_IoHubExec              :0328] >> process completed, cmd: 0xd6, outBufSize: 1, dataInSize: 1"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][trace][       McuImpl.c][PovImageCheck           :1179] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][trace][       McuImpl.c][PovImageCheck           :1179] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][ info][LogicMilanFSeries.c][Start                   :0744] >> switch to fdt down"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][ info][LogicMilanFSeries.c][Start                   :0744] >> switch to fdt down"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][ dump][      FpMcuCmd.c][_FpMcuSwitchToFdtMode   :0128] >> switch to fdt down[0x14]: 
+80 BA 80 B4 80 B5 80 AF  80 B4 80 AC 80 B2 80 A7  ................
+80 AB 80 A5                                        ...."
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][ dump][      FpMcuCmd.c][_FpMcuSwitchToFdtMode   :0128] >> switch to fdt down[0x14]: 
+80 BA 80 B4 80 B5 80 AF  80 B4 80 AC 80 B2 80 A7  ................
+80 AB 80 A5                                        ...."
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0x32, ackEvent: 0x5a0, dataInEvent: 0x0, dataProcessedEvent: 0x0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0x32, ackEvent: 0x5a0, dataInEvent: 0x0, dataProcessedEvent: 0x0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 1A 00 BA 32 17 00 0C  01 80 BA 80 B4 80 B5 80  ....2...........
+AF 80 B4 80 AC 80 B2 80  A7 80 AB 80 A5 79 00 00  .............y.."
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 1A 00 BA 32 17 00 0C  01 80 BA 80 B4 80 B5 80  ....2...........
+AF 80 B4 80 AC 80 B2 80  A7 80 AB 80 A5 79 00 00  .............y.."
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.681][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.681][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.681][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.681][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 32  01 C4 00 00 00 00 00 00  .......2........
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.681][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 32  01 C4 00 00 00 00 00 00  .......2........
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.681][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.681][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.681][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.681][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.697][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.697][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.697][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:03.697][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.697][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x5a0, for cmd 0x32"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:03.697][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x5a0, for cmd 0x32"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x32"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0310] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][ info][LogicMilanFSeries.c][Start                   :0764] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][ info][LogicMilanFSeries.c][Start                   :0764] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][ info][        Device.c][InitThread              :1151] >> ##############################InitThread end##############################"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][ info][        Device.c][InitThread              :1151] >> ##############################InitThread end##############################"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][trace][   ThreadGroup.c][ThreadFree              :0045] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][trace][   ThreadGroup.c][ThreadFree              :0045] >> enter"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][trace][   ThreadGroup.c][ThreadFree              :0064] >> exit"
+DebugString: "[pid:  5928][tid:  5676][03-15 09:23:03.697][trace][   ThreadGroup.c][ThreadFree              :0064] >> exit"
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+Thread 162C exit
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.056][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.056][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.072][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 1C 00 BC 32 19 00 02  00 F0 03 74 01 68 01 65  ....2......t.h.e
+01 57 01 37 01 08 01 03  01 E3 00 12 01 E6 00 AD  .W.7............"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.072][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 1C 00 BC 32 19 00 02  00 F0 03 74 01 68 01 65  ....2......t.h.e
+01 57 01 37 01 08 01 03  01 E3 00 12 01 E6 00 AD  .W.7............"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.072][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 28"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.072][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 28"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.072][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x32, len: 25"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.072][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0x32, len: 25"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.072][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.072][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.072][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  6848][03-15 09:23:04.072][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 1, pendingRequests: 1, activeRequests: 0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][debug][         IoHub.c][IoHubNotifyDataIn2      :0618] >> no pending cmd, ignore"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x32, interrupt: 0x2"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][debug][       McuImpl.c][McuParseFdt             :0352] >> cmd: 0x32, interrupt: 0x2"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][        MilanG.c][ParseInt                :0307] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][        MilanG.c][ParseInt                :0307] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][        MilanG.c][ParseInt                :0357] >> exit"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][        MilanG.c][ParseInt                :0357] >> exit"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][debug][       McuImpl.c][McuParseFdt             :0398] >> fdt touch flag: 0x3f0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][       McuImpl.c][McuParseFdt             :0413] >> fdt up base[0x14]: 
+74 01 68 01 65 01 57 01  37 01 08 01 03 01 E3 00  t.h.e.W.7.......
+12 01 E6 00                                        ...."
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][       McuImpl.c][McuParseFdt             :0413] >> fdt up base[0x14]: 
+74 01 68 01 65 01 57 01  37 01 08 01 03 01 E3 00  t.h.e.W.7.......
+12 01 E6 00                                        ...."
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][       McuImpl.c][McuParseFdt             :0424] >> fdtBaseTranslated[0x14]: 
+80 14 80 14 80 14 80 14  80 B1 80 9A 80 97 80 87  ................
+80 9F 80 89                                        ...."
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][       McuImpl.c][McuParseFdt             :0424] >> fdtBaseTranslated[0x14]: 
+80 14 80 14 80 14 80 14  80 B1 80 9A 80 97 80 87  ................
+80 9F 80 89                                        ...."
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x32), ignore"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][debug][         IoHub.c][IoHubNotifyDataProcessed:0685] >> no pending cmd(0x32), ignore"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][ info][LogicMilanFSeries.c][HandleFdtDown           :1264] >> ##############################HandleFdtDown start##############################"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][ info][LogicMilanFSeries.c][HandleFdtDown           :1264] >> ##############################HandleFdtDown start##############################"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][LogicMilanFSeries.c][HandleFdtDown           :1267] >> Start time: 224474"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][LogicMilanFSeries.c][HandleFdtDown           :1267] >> Start time: 224474"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][ info][LogicMilanFSeries.c][HandleFdtDown           :1278] >> update fdt up base"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][ info][LogicMilanFSeries.c][HandleFdtDown           :1278] >> update fdt up base"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][  MilanFSerMcu.c][MilanFSerMcuGetImage    :0058] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][  MilanFSerMcu.c][MilanFSerMcuGetImage    :0058] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][      FpMcuCmd.c][_FpMcuGetImage          :0087] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][      FpMcuCmd.c][_FpMcuGetImage          :0087] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0x20, ackEvent: 0x5b8, dataInEvent: 0x5ac, dataProcessedEvent: 0x5a8"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0x20, ackEvent: 0x5b8, dataInEvent: 0x5ac, dataProcessedEvent: 0x5a8"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x20, outDataSize: 0x2, recvBufSize: 0x4a40"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 06 00 A6 20 03 00 01  00 86 00 00 00 00 00 00  .... ...........
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.072][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 06 00 A6 20 03 00 01  00 86 00 00 00 00 00 00  .... ...........
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.087][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.087][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 20  01 D6 00 00 00 00 00 00  ....... ........
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+A0 06 00 A6 B0 03 00 20  01 D6 00 00 00 00 00 00  ....... ........
+00 00 00 00 00 00 00 00  00 00 00 00 00 00 00 00  ................"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xa0, payload len: 6"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][debug][       Realtek.c][_RecvPackage            :0375] >> recv completed, cmd: 0xb0, len: 3"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][trace][       Realtek.c][_RecvPackage            :0390] >> checksum ok"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0402] >> create new thread"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0402] >> create new thread"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 2, pendingRequests: 1, activeRequests: 1"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.087][ dump][   ThreadGroup.c][ThreadPoolSchedule      :0421] >> numThreads: 2, pendingRequests: 1, activeRequests: 1"
+Thread 1FFC created, Entry: wbdi.00007FF8E6D20770
+INT3 breakpoint at <wbdi.EntryPoint> (00007FF8E6D22370)!
+DebugString: "[pid:  5928][tid:  8188][03-15 09:23:04.087][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x5b8, for cmd 0x20"
+DebugString: "[pid:  5928][tid:  8188][03-15 09:23:04.087][ dump][         IoHub.c][IoHubNotifyAck          :0585] >> set ack event: 0x5b8, for cmd 0x20"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.087][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:04.087][debug][         IoHub.c][_IoHubExec              :0283] >> get ack for cmd: 0x20"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.119][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.119][ dump][    _DeviceUsb.c][EvtReadComplete         :0245] >> buf size: 32768"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.119][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+B2 0E 3A FA 00 20 0A 3A  00 00 00 00 00 17 03 03  ..:.. .:........
+3A 00 3E 63 E1 A9 C7 4A  96 59 96 79 BB 03 6C 62  :.>c...J.Y.y..lb"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.119][ dump][    _DeviceUsb.c][EvtReadComplete         :0247] >> pack-in[0x20]: 
+B2 0E 3A FA 00 20 0A 3A  00 00 00 00 00 17 03 03  ..:.. .:........
+3A 00 3E 63 E1 A9 C7 4A  96 59 96 79 BB 03 6C 62  :.>c...J.Y.y..lb"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.134][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xb2, payload len: 14862"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.134][trace][       Realtek.c][_RecvPackage            :0314] >> pack flags: 0xb2, payload len: 14862"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.134][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+DebugString: "[pid:  5928][tid:  6324][03-15 09:23:04.134][debug][       Realtek.c][_RecvTlsPackage         :0219] >> tls_state = 0x10"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][trace][        Handle.c][GlobalWait              :0027] >> timeout (1500)"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][trace][        Handle.c][GlobalWait              :0027] >> timeout (1500)"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][error][         IoHub.c][_IoHubExec              :0295] >> wait incoming data timeout, cmd: 0x20, handle: 0x5ac"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][error][         IoHub.c][_IoHubExec              :0295] >> wait incoming data timeout, cmd: 0x20, handle: 0x5ac"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][ dump][         IoHub.c][_IoHubExec              :0306] >> set IoHub->CurCmd to NULL"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][error][         IoHub.c][_IoHubExec              :0312] >> recv failed, exit"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][error][         IoHub.c][_IoHubExec              :0312] >> recv failed, exit"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][error][      FpMcuCmd.c][_FpMcuGetImage          :0099] >>  -->failed"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][error][      FpMcuCmd.c][_FpMcuGetImage          :0099] >>  -->failed"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][error][  MilanFSerMcu.c][MilanFSerMcuGetImage    :0084] >>  -->failed"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][error][  MilanFSerMcu.c][MilanFSerMcuGetImage    :0084] >>  -->failed"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][error][LogicMilanFSeries.c][HandleFdtDown           :1326] >>  -->failed"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][error][LogicMilanFSeries.c][HandleFdtDown           :1326] >>  -->failed"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][ info][LogicMilanFSeries.c][HandleFdtDown           :1430] >> switch to fdt down"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][ info][LogicMilanFSeries.c][HandleFdtDown           :1430] >> switch to fdt down"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][debug][      FpMcuCmd.c][FpMcuSwitchToFdtDown    :0300] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][ dump][      FpMcuCmd.c][_FpMcuSwitchToFdtMode   :0128] >> switch to fdt down[0x14]: 
+80 BA 80 B4 80 B5 80 AF  80 B4 80 AC 80 B2 80 A7  ................
+80 AB 80 A5                                        ...."
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][ dump][      FpMcuCmd.c][_FpMcuSwitchToFdtMode   :0128] >> switch to fdt down[0x14]: 
+80 BA 80 B4 80 B5 80 AF  80 B4 80 AC 80 B2 80 A7  ................
+80 AB 80 A5                                        ...."
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0x32, ackEvent: 0x5a0, dataInEvent: 0x0, dataProcessedEvent: 0x0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][trace][        CmdOut.c][CmdOutCreate            :0055] >> new cmd, cmd: 0x32, ackEvent: 0x5a0, dataInEvent: 0x0, dataProcessedEvent: 0x0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][debug][         IoHub.c][_IoHubExec              :0244] >> sendCmd, cmd: 0x32, outDataSize: 0x16, recvBufSize: 0x0"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][trace][       Realtek.c][SendCmd                 :0143] >> enter"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 1A 00 BA 32 17 00 0C  01 80 BA 80 B4 80 B5 80  ....2...........
+AF 80 B4 80 AC 80 B2 80  A7 80 AB 80 A5 79 00 00  .............y.."
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][ dump][           Usb.c][UsbPipeWrite            :0122] >> pack-out[0x20]: 
+A0 1A 00 BA 32 17 00 0C  01 80 BA 80 B4 80 B5 80  ....2...........
+AF 80 B4 80 AC 80 B2 80  A7 80 AB 80 A5 79 00 00  .............y.."
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+DebugString: "[pid:  5928][tid:  4220][03-15 09:23:05.603][trace][       Realtek.c][SendCmd                 :0182] >> exit"
+Thread CE4 exit
+Thread 790 exit
+Thread 18B4 exit
+Thread 107C exit
+Thread 1FFC exit
+Thread 1AC0 exit
+Thread 18F8 exit
+Thread 12C8 exit
+Thread 1134 exit
+Thread 1F3C exit
+Process stopped with exit code 0xC0000005
+Saving database to C:\Users\zwiebel\Documents\x64dbg\x64\db\WUDFHost.exe.dd64 15ms
+Debugging stopped!
